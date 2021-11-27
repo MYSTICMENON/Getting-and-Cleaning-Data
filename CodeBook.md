@@ -16,3 +16,7 @@
 ## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## tidydata.txt is the final output of 5. above.
+
+## X_test, Y_test, subject_test- Store the value of test data
+## X_train, Y_train, subject_train - Store the value of train data
+## final_merged_data - Merged test and train dataset
